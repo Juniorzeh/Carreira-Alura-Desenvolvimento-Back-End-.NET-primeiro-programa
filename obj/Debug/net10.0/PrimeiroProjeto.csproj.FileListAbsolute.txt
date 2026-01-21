@@ -2,6 +2,7 @@ C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\P
 C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfoInputs.cache
 C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.AssemblyInfo.cs
 C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\obj\Debug\net10.0\PrimeiroProjeto.sourcelink.json
 C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.exe
 C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.deps.json
 C:\Users\JUNIOR\source\repos\PrimeiroProjeto\PrimeiroProjeto\bin\Debug\net10.0\PrimeiroProjeto.runtimeconfig.json
